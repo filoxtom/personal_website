@@ -26,8 +26,6 @@ Ricorda che il tuo sito dovrà essere 100% responsive.
 ## STRUCTURE
 
 Pages:
-- home
-- project
-- hobby
-- cv
+- home (banner, project, hobby)
+- cv 
 - contact
